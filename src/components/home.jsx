@@ -227,7 +227,7 @@ const Home = () => {
             </Carousel>
         </div>
 
-        <div className="container mt-5">
+        <div className="container mt-5 mb-5">
             <p className="fs-3 fw-bold text-white"><span><div className="border-start border-5 border-warning p-3">
                 Top Picks <MdOutlineArrowForwardIos /></div></span></p>
             <Carousel responsive={responsive}>
