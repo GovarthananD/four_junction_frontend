@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.body{
+    background-color: rgb(0,0,0);
+}
+
+.mod{
+    color: yellow;
+}
+.imdb{
+    height: 100px;
+    margin-left: 100px;
+}
+.boxs{
+    border: none !important;
+    background-color: rgb(26,26,26) !important;
+}
+.card{
+    border: none !important;
+}
+.watch{
+    background-color: rgb(37, 35, 35);
+    border-radius: 20px;
+    border: 1px solid rgb(87, 82, 82);    
+    padding: 5px;
+    width: 100%;
+}
+.details{
+    background: rgb(75,58,37);
+}
+.rating{
+    letter-spacing: 2px;
+    color: rgb(173,168,163);
+}
+.detail-img{
+    height: 500px;
+}
+.actors{
+    color: rgb(83,142,221);
+}
+.bot{
+    border: 1px solid black;
+    padding: 50px;
+}
+.changes{
+    background-color: rgb(83,142,221);
+    border-radius: 20px;
+    border: 1px solid rgb(87, 82, 82);    
+    padding: 5px;
+    width: 100%;
+}
+
