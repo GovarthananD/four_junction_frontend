@@ -51,7 +51,7 @@ const Home = () => {
         }
     };
 
-    return (<div className="body">
+    return (<div className="body mb-5">
         <nav className="navbar navbar-expand-lg navbar-light px-3">
             {/* Logo / Icon */}
             <a className="navbar-brand d-flex align-items-center" href="#" onClick={() => navigate("/")}>
